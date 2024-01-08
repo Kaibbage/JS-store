@@ -1,0 +1,12 @@
+html
+    head
+        title Vendor Stats Page
+
+    body
+        include header
+
+        each val, key in vendorData
+            br
+            h2 #{key}
+            each data in val 
+                p  #{data}

@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "pug": "^3.0.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "assignment2",
+  "version": "1.0.0",
+  "main": "client.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": ""
+}
