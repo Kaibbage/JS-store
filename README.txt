@@ -1,11 +1,4 @@
 Name: Kai Sundararaj
-Student Number: 101240325
-
-Decisions made:
-- tried to stick to what the base code was doing and add on to it
-- Followed the specifications as closely as I could
-- used pug for template engine
-- tried to take and send all data through the server
 
 
 How to run my server:
